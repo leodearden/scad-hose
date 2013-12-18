@@ -1,3 +1,5 @@
+include <lib/env.scad>
+
 // Hose Tail
 // A ribbed pipe that you can push a hose over.
 // Shouldn't leak or come off under moderate pressure.
