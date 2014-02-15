@@ -1,4 +1,4 @@
-include <lib/env.scad>
+include <scad-meta/env.scad>
 
 // Hose Tail
 // A ribbed pipe that you can push a hose over.
@@ -30,4 +30,4 @@ module hose_tail(hose_id, length, wall = 3, stretch = hose_tail_default_stretch(
 	}
 }
 
-// hose_tail(12, 25);
+//hose_tail(12, 25);
